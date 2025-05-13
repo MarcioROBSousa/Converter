@@ -1,4 +1,5 @@
 🧊 Conversor de Temperatura 🔥
+
 Transforme Fahrenheit em Celsius com estilo!
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
@@ -31,18 +32,29 @@ Este é um conversor simples (e bonitinho) de temperaturas, feito para praticar 
 
 ✅ JavaScript — Lógica pura de conversão e manipulação do DOM
 
+---
 
 🧪 Funcionalidades
+
 Conversão instantânea de Fahrenheit para Celsius
 
-Layout simples, mas responsivo e agradável
 
-Sem dependências externas: só HTML, CSS e JS puros (vanilla)
+** Layout simples, mas responsivo e agradável
+
+
+** Sem dependências externas: só HTML, CSS e JS puros (vanilla)
+
+---
 
 💼 Minhas Habilidades Demonstradas
-✔️ Criação de interfaces modernas e responsivas
-✔️ Manipulação de eventos e DOM com JavaScript
-✔️ Organização de projetos front-end
-✔️ Atenção aos detalhes e boas práticas de código
 
-***
+✔️ Criação de interfaces modernas e responsivas.
+
+✔️ Manipulação de eventos e DOM com JavaScript.
+
+✔️ Organização de projetos front-end.
+
+✔️ Atenção aos detalhes e boas práticas de código.
+
+---
+---
