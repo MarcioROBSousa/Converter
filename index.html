@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Converter de temperatura</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Converta de Fahrenheit para Celsius</h1>
+        <p>Utilize nosso conversor online para saber a temperatura em graus Celsius</p>
+
+        <form class="caixa">
+            <p class="texto">Digite o valor em Fahrenheit</p>
+            <!-- Caixa de texto para inserir Fahrenheit -->
+            <input type="text" id="Fahrenheit" placeholder="Digite °F" />
+            <!-- Botão para converter -->
+            <button type="button" onclick="converter()">Converter</button>
+        </form>
+
+        <!-- Exibição do resultado -->
+        <p id="resultado"></p>
+    </div> <!-- Fechamento da div container -->
+
+    <script src="script.js"></script>
+</body>
+</html>
