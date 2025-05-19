@@ -7,7 +7,7 @@ Transforme Fahrenheit em Celsius com estilo!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Responsivo](https://img.shields.io/badge/Responsivo-Sim-brightgreen)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
-![Perfil](https://img.shields.io/badge/Feito%20por-SeuNomeAqui-blueviolet)
+![Perfil](https://img.shields.io/badge/Feito%20por-MarcioSousa-blueviolet)
 
 
 ---
